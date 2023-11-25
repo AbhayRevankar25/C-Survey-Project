@@ -1,5 +1,6 @@
 # C ++ -Survey-Project
-This project is used to create and answer the created survey and this project is implemented using c++ language
+$  This project is used to create and answer the created survey and this project is implemented using c++ language  $
+
 
 
 The user first has to dowload all the .cpp and .h in a separate folder and then the user has to create a Surveys folder and Completed Surveys folder in the current folder with .cpp and .h files and the name of folder must be same(no changes).
